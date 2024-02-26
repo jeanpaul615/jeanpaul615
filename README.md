@@ -8,6 +8,12 @@
 
 <h2 align="left">About me</h2>
 
+###
+
+<p align="left">Proyectos Destacados<br>Tienda Virtual (frontend, backend)<br><br>-Sistema de INVENTARIO Excel y VB<br><br>-NUM PUZZLE CON PYTHON Y TURTLE<br><br>## Experiencia Laboral<br>Desarrollador  para Empresa Servicios Publicos Serviciudad(2024)<br><br>- Responsabilidades:<br><br><br>Educación<br>-Análisis y Desarrollo de Software Sena(2021-2024)<br>-Ingeniería en Sistemas y Computación, EN CURSO(2022-2024)<br><br><br>Habilidades Blandas<br>- Excelente habilidad de comunicación verbal y escrita.<br>- Capacidad para trabajar de forma colaborativa en equipos multidisciplinarios.<br>- Orientación hacia la resolución de problemas y el aprendizaje continuo.</p>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
@@ -36,6 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
 ###
