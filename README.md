@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 Que tal?</h1>
+<h1 align="left">My name is Jean Paul and I'm a Software Developer from Colombia</h1>
 
 ###
 
-<p align="left">My name is Jean Paul and I'm a Software Developer from Colombia</p>
+<p align="left"></p>
 
 ###
 
