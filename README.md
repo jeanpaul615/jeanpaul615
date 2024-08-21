@@ -1,4 +1,4 @@
-<h1 align="center">Jean Paul - Desarrollador de Software en Colombia</h1>
+<h1 align="center">Jean Paul Puerta - Desarrollador de Software en Colombia</h1>
 
 ---
 
