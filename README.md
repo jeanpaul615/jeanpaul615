@@ -1,4 +1,4 @@
-<h1 align="left">My name is Jean Paul and I'm a Software Developer from Colombia🤓🤓🤓</h1>
+<h1 align="left">My name is Jean Paul and I'm a Software Developer from Colombia</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Proyectos Destacados<br>Tienda Virtual (frontend, backend)<br><br>-Sistema de INVENTARIO Excel y VB<br><br>-Recibo con manejo de archivo en C++<br><br>-NUM PUZZLE CON PYTHON Y TURTLE<br><br>Experiencia Laboral<br>Desarrollador  para Empresa Servicios Publicos Serviciudad(2024)<br><br>- Responsabilidades:<br><br><br>Educación<br>-Análisis y Desarrollo de Software Sena(2021-2024)<br>-Ingeniería en Sistemas y Computación, EN CURSO(2022-2024)<br><br><br>Habilidades Blandas<br>- Excelente habilidad de comunicación verbal y escrita.<br>- Capacidad para trabajar de forma colaborativa en equipos multidisciplinarios.<br>- Orientación hacia la resolución de problemas y el aprendizaje continuo.</p>
+<p align="left">Proyectos Destacados<br>Simulación Tienda Virtual (PHP, MYSQL, HTML, CSS, JS)<br><br>-Sistema de Inventario (Excel y VB)<br><br>-Recibo con manejo de Archivos (C++)<br><br>-Rompecabezas Numerico(Python, Turtle)<br><br>-Juego Ahorcado(C++)<br><br>-SuperMercado con Inventario(Back-Python, Front-React, BD-Mysql, TAILWIND)<br><br>-Triki(React Js)<br><br>-Lector de Asistencia Qr(HTML,TAILWIND, PHP,JS,MYSQL)<br><br>-Legon Inventario(REACTJS, NODEJS, TAILWIND, EXPRESS, MYSQL)<br><br>-Software de Chequeos Preoperacionales de Vehiculos Serviciudad(REACTJS, NODEJS, TAILWIND, EXPRESS, MYSQL)<br><br>Experiencia Laboral<br>Desarrollador  para Empresa Servicios Publicos Serviciudad(2024)<br><br>- Responsabilidades:<br><br><br>Educación<br>-Análisis y Desarrollo de Software Sena(2021-2024)<br>-Ingeniería en Sistemas y Computación, EN CURSO(2022-2024)<br><br><br>Habilidades Blandas<br>- Excelente habilidad de comunicación verbal y escrita.<br>- Capacidad para trabajar de forma colaborativa en equipos multidisciplinarios.<br>- Orientación hacia la resolución de problemas y el aprendizaje continuo.</p>
 
 ###
 
