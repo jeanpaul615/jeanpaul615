@@ -1,10 +1,10 @@
-<h1 align="center">Jean Paul Puerta - Desarrollador de Software en Colombia</h1>
+<h1 align="center">Jean Paul Puerta - Desarrollador de Software</h1>
 
 ---
 
 ## 🌟 Sobre Mí
 
-Soy un apasionado Desarrollador de Software de Colombia, con una sólida experiencia en el desarrollo de soluciones tanto de frontend como de backend. A continuación, algunos de los proyectos en los que he trabajado:
+Soy un apasionado Desarrollador de Software, con una sólida experiencia en el desarrollo de soluciones tanto de frontend como de backend. A continuación, algunos de los proyectos en los que he trabajado:
 
 ### 🔧 Proyectos Destacados
 
