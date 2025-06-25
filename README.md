@@ -26,11 +26,17 @@ Soy un apasionado Desarrollador de Software, con una sólida experiencia en el d
     - Desarrollo de soluciones de software personalizadas para las necesidades de la empresa
     - Gestión de la integración de bases de datos y funcionalidades de backend
     - Colaboración con equipos multidisciplinarios para entregar proyectos a tiempo
+   
+- **Desarrollador para Proveedor de Internet FTTH Y TV** (2024)
+  - *Responsabilidades:*
+    - Desarrollador Full Stack
+    - Desarrollo de herramientas internas para gestión operativa
+    - Optimización del flujo de datos entre frontend y backend
 
 ### 🎓 Educación
 
 - **Análisis y Desarrollo de Software** - SENA (2022-2024)
-- **Ingeniería en Sistemas y Computación** - UTP (En curso, 5to Semestre )
+- **Ingeniería en Sistemas y Computación** - UTP (En curso)
 
 ### 🤝 Habilidades Blandas
 
@@ -40,7 +46,7 @@ Soy un apasionado Desarrollador de Software, con una sólida experiencia en el d
 
 ---
 
-## 🛠️ Tecnologías que Utilizo
+## 🛠️ Tecnologías
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
