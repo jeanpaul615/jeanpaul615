@@ -27,7 +27,7 @@ Soy un apasionado Desarrollador de Software, con experiencia en el desarrollo de
     - Gestión de la integración de bases de datos y funcionalidades de backend
     - Colaboración con equipos multidisciplinarios para entregar proyectos a tiempo
    
-- **Desarrollador para Proveedor de Internet FTTH Y TV** (2024)
+- **Desarrollador para Proveedor de Internet FTTH Y TV** (2025)
   - *Responsabilidades:*
     - Desarrollador Full Stack
     - Desarrollo de herramientas internas para gestión operativa
