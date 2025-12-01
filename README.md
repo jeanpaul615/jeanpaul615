@@ -85,12 +85,6 @@ Soy un **Desarrollador de Software** apasionado por crear soluciones eficientes 
 
 📊 Estadísticas de GitHub 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Jeanpaul615?template=classic&base=header%2Cactivity&config.timezone=America%2FBogota" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jeanpaul615&theme=dracula&hide_border=false" />
-</p>
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeanpaul615&theme=dracula" />
 </p>
 <p align="center">
