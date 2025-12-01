@@ -83,10 +83,7 @@ Soy un **Desarrollador de Software** apasionado por crear soluciones eficientes 
 
 ---
 
-## 📊 <b>Estadísticas de GitHub</b>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeanpaul615&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Lenguajes" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeanpaul615&locale=es&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Lenguajes" /> </p>
-
+📊 Estadísticas de GitHub <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeanpaul615&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Lenguajes" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeanpaul615&locale=es&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Lenguajes" /> </p>
 ---
 
 ## 🌐 <b>Conéctate Conmigo</b>
