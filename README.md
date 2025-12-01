@@ -29,11 +29,13 @@ Portafolio : https://jeanpaul615.github.io/PortfolioWebsite/
     - Gestión de la integración de bases de datos y funcionalidades de backend
     - Colaboración con equipos multidisciplinarios para entregar proyectos a tiempo
    
-- **Desarrollador para Proveedor de Internet FTTH Y TV** (2025)
+- **Asesor Comercial para Proveedor de Internet FTTH Y TV** (2025)
   - *Responsabilidades:*
     - Desarrollador Full Stack
     - Desarrollo de herramientas internas para gestión operativa
     - Optimización del flujo de datos entre frontend y backend
+    - Automatización de mensajes para mejorar flujo de cartera
+    - Diseño aplicativo de Inventario para evitar errores de digitación
 
 ### 🎓 Educación
 
