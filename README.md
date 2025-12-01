@@ -83,8 +83,21 @@ Soy un **Desarrollador de Software** apasionado por crear soluciones eficientes 
 
 ---
 
-📊 Estadísticas de GitHub <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeanpaul615&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Lenguajes" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeanpaul615&locale=es&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Lenguajes" /> </p>
----
+📊 Estadísticas de GitHub 
+<p align="center">
+  <img src="https://metrics.lecoq.io/Jeanpaul615?template=classic&base=header%2Cactivity&config.timezone=America%2FBogota" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Jeanpaul615&theme=dracula&hide_border=false" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeanpaul615&theme=dracula" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeanpaul615&theme=dracula" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jeanpaul615&theme=dracula" height="180" />
+</p>
+
 
 ## 🌐 <b>Conéctate Conmigo</b>
 
